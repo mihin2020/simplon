@@ -1,0 +1,116 @@
+@media screen and (max-width: 1280px)
+{
+.simplon-media
+{
+    width: 150px;
+    height: 90px;
+    position: relative;
+    left: 130px;
+}
+.fluid-1
+{
+    height: 150px;
+}
+.centre-media
+{
+    display: none;
+}
+.Recherche
+{
+    width: 275px;
+    position: relative;
+    bottom: 40px;
+}
+.button
+{
+    position: relative;
+    bottom: 40px;
+}
+.element3
+{
+   margin-left: 15px;
+}
+.ecole
+{
+    font-size: small;
+}
+.simplon_burk
+{
+    font-size: 1.1em;
+}
+.element5
+{
+    margin-top: 360px;
+    font-size: 1.1em;
+}
+.up
+{
+    margin-bottom: 30px;
+}
+.element6
+{
+    margin-top: 20px;
+    font-size: 1.1em;
+}
+.lancement
+{
+    font-size: small;
+    line-height: 25px;
+}
+.soutenance
+{
+   margin-top: 20px;
+}
+.fluid-3
+{
+    margin-top: 510px;
+}
+.partenaire
+{
+    position: relative;
+    top: -350px;
+}
+.partenaire-media
+{
+    position: relative;
+    top: -350px;
+}
+.jkz
+{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+}
+.sgbf
+{
+    position: relative;
+    bottom: -75px;
+    right: -50px;
+}
+.france
+{
+    position: relative;
+    bottom: -75px;
+    right: -50px;
+}
+
+.pied 
+{
+    margin-top: 25px;
+    height: 200px;
+}
+.foot
+{
+    margin-left: 125px;
+   width: 125px;
+}
+.element10
+{
+    margin-top: 0px;
+    font-size: small;
+}
+.reseau4
+{
+    display: inline;
+    margin-left: 50px;
+}

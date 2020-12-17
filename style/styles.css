@@ -1,0 +1,189 @@
+
+*
+{
+padding: 0;
+margin:0;
+}
+.marge
+{
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.element1
+{
+    margin-top: 20px;
+    
+}
+.large
+{
+    height: 75px;
+}
+.fluid-1
+{
+    position: fixed;
+    z-index: 1;
+    background-color: white;
+}
+.nav
+{
+    z-index: 1;
+}
+
+.images
+{
+    height: 600px;
+}
+
+
+
+
+
+.element2
+{
+    height: 350px;
+    background-color: rgb(243, 243, 243);
+    margin-top: 30px; 
+    border-top:solid #c82333  8px;
+}
+.simplon_burk
+{
+    color: #c82333 ;
+    font-size: 1.3em;
+    font-weight: bold;
+    text-align: justify;
+    text-decoration: underline;
+}
+.ecole
+{
+    line-height: 2.3em;
+    font-size: medium;
+    text-align: justify;
+    padding-right: 10px;
+    
+}
+.padding
+{
+    padding: 0px;
+}
+.element3
+{
+    position: relative;
+    right: 15px;
+   
+}
+.element5
+{
+    margin-top: 30px;
+    text-align: center;
+    color: #c82333 ;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.element6
+{
+    margin-top: 30px;
+    text-align: center;
+    color: #c82333 ;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.fluid-2
+{
+    height: 170px;
+    background-color: #c82333;
+    margin-top: 10px;
+}
+.text
+{
+    
+    height: 200px;
+    background-color: rgb(233, 231, 231);;
+}
+.element7
+{
+    
+    height: 450px;
+    margin-top: 10px;
+}
+.element8
+{
+    text-align: center;
+    color: #c82333;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.lancement
+{
+    text-align: justify;
+    line-height: 30px;
+}
+.element9
+{
+    border-top: #c82333 solid 8px;
+}
+.fluid-3
+{
+    height: 110px;
+    background-color: #c82333;
+    margin-top: 30px;
+}
+.partenaire
+{
+    height: 250px;
+}
+.jkz
+{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.sgbf
+{
+    margin-top: 50px;  
+}
+.france
+{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.pied
+{
+    background-color: #c82333;
+    height: 250px;
+}
+.foot
+{
+   margin-left: 425px;
+   margin-top: 30px;
+}
+.element10
+{
+    color: white;
+    text-align: center;
+    margin-top: -20px;
+}
+.reseau
+{
+   margin-left: 20px;
+}
+.reseau4
+{
+    margin-left: 500px;
+}
+.element11
+{
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.element14
+{
+    margin-top: 20px;
+    margin-left: 55px;
+}
+.element13
+{
+    margin-left: 25px;
+}
+.element12
+{
+    margin-left: 20px;
+}
