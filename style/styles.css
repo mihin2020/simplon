@@ -1,9 +1,4 @@
 
-*
-{
-padding: 0;
-margin:0;
-}
 .marge
 {
     margin-left: 25px;
@@ -93,6 +88,10 @@ margin:0;
     background-color: #c82333;
     margin-top: 10px;
 }
+.text-center :hover
+{
+    background-color:#df9ca3 ;
+}
 .text
 {
     
@@ -167,7 +166,7 @@ margin:0;
 }
 .reseau4
 {
-    margin-left: 500px;
+    margin-left: 585px;
 }
 .element11
 {
@@ -186,4 +185,13 @@ margin:0;
 .element12
 {
     margin-left: 20px;
+}
+h5
+{
+    color:white;
+}
+.fonte
+{
+    font-size: 1.2em;
+    font-weight: bold;
 }

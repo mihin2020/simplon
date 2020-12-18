@@ -114,3 +114,15 @@
     display: inline;
     margin-left: 50px;
 }
+.element11 , .element14 , .element13
+{
+    display: none;
+}
+.element12
+{
+    width: 150px;
+}
+.fonte
+{
+    font-size: small;
+}

@@ -1,0 +1,31 @@
+.marge
+{
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.element1
+{
+    margin-top: 25px;
+}
+.fluid-2
+{
+    height: 75px;
+    background-color: #c82333;
+}
+.fluid-1
+{
+    height:100px ;
+    background-color: rgb(255, 255, 255);
+}
+
+
+/* transaparance*/
+.transparant
+{
+    background-image: url(/home/mihin/Bureau/Simplon.burkina/images/femme.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:  0.5;
+    
+}

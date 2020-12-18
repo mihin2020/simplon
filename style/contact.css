@@ -1,0 +1,131 @@
+.marge
+{
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.element1
+{
+    margin-top: 25px;
+}
+.fluid-2
+{
+    height: 75px;
+    background-color: #c82333;
+}
+.fluid-1
+{
+    height:100px ;
+    background-color: rgb(255, 255, 255);
+}
+h4{
+    text-align: center;
+    font-size: large;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.centre
+{
+    position: relative;
+    bottom: -23px;
+}
+.back
+{
+    background-image: url(/home/mihin/Bureau/Simplon.burkina/images/bois2.jpeg);
+    height: 525px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.color
+{
+    color: #c82333;
+    font-weight: bold;
+}
+.btnfin
+{
+    margin-top: 425px;
+    position: relative;
+    left: -115px;
+}
+
+
+.localisation
+{
+    margin-top: -475px;
+   float: inline-end;
+   color: #c82333;
+   position: relative;
+   right: -150px;
+ }
+ .element15
+ {
+     font-weight: bolder;
+     font-size: larger;
+     position: relative;
+     top: -20px;
+     left: -35px;
+ }
+ .telephone
+ {
+     float: inline-end;
+   
+    position: relative;
+    top: -300px;
+    right: 15px;
+ }
+ .numero
+ {
+    color: #c82333;
+    font-weight: bolder;
+    font-size: larger;
+    margin-left: 500px;
+    position: relative; 
+    top: -210px;
+    right: -260px;
+    word-spacing: 2px;
+ }
+.mail
+{
+    float: right;
+    position: relative;
+    top: -225px;
+    right: -80px;
+}
+.email
+{
+    float: right;
+    position: relative;
+    top: -125px;
+    right: -225px;
+    color: #c82333;
+    font-weight: bold;
+}
+
+
+
+.pied
+{
+    background-color: #c82333;
+    height: 250px;
+}
+.foot
+{
+   margin-left: 425px;
+   margin-top: -30px;
+}
+.element10
+{
+    color: white;
+    text-align: center;
+    margin-top: -20px;
+    position: relative;
+    right: -175px;
+}
+.reseau
+{
+   margin-left: 20px;
+}
+.reseau4
+{
+    margin-left: 500px;
