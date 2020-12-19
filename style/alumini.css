@@ -16,49 +16,55 @@
 {
     height:100px ;
     background-color: rgb(255, 255, 255);
-    position: fixed;
-    z-index: 1;
+}
+h4{
+    text-align: center;
+    font-size: large;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.centre
+{
+    position: relative;
+    bottom: -23px;
 }
 
 
-/* transaparance*/
-.transparant
+.promo
 {
-    background-image: url(/home/mihin/Bureau/Simplon.burkina/images/ae.jpeg);
-    height: 500px;
+    background-image: url(/home/mihin/Bureau/Simplon.burkina/images/Photos-de-groupeSIMPLON.AUF_.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    opacity:  ;
+    height: 750px;
 }
-.approche
+.center{
+    margin-top: 200px;
+    opacity: 0.7;
+}
+.centre{
+    margin-top: 50px;
+    font-size: xx-large;
+}
+.text
 {
-   text-align: center;
-   font-size: xx-large;
-   color: white;
-   font-weight: bold;
-   text-transform: uppercase;
-   position: relative;
-   bottom: -200px;
+    height: 250px;
+    background-color: rgb(232, 229, 229);
+}
+.bordure 
+{
+    border-top: solid 7px #c82333;
+}
+.interligne
+{
+    line-height: 1.9em;
 }
 .formation
 {
     height: 100px;
     background-color: #c82333;
 }
-.metier
-{
-    height: 250px;
-    background-color: rgb(232, 229, 229);
-}
-.interligne
-{
-    line-height: 1.9em;
-}
-.dev
-{
-    height: 300px;
-    background-color: rgb(232, 229, 229);
-}
+
 
 
 
@@ -67,27 +73,16 @@
     background-color: #c82333;
     height: 250px;
 }
-.foot
-{
-   margin-left: 425px;
-   margin-top: 30px;
-}
 .element10
 {
     color: white;
     text-align: center;
     margin-top: -20px;
-}
+ }
 .reseau
 {
-   margin-left: 20px;
-}
-.reseau4
-{
-    margin-left: 500px;
-}
-
-
+    margin-left: 25px;
+} 
 
 
 
